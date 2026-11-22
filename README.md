@@ -192,8 +192,12 @@ A CNN for CIFAR-10 images, a SimpleRNN for IMDB sentiment, NLP text preprocessin
 
 ## Contact
 
+<p>
+  <a href="https://www.linkedin.com/in/vishwanathan03/"><img src="https://img.shields.io/badge/LinkedIn-vishwanathan03-0A66C2?style=flat-square" alt="LinkedIn: vishwanathan03"></a>
+</p>
+
 - **Email:** [g.vishwanathan29@gmail.com](mailto:g.vishwanathan29@gmail.com)
-- **LinkedIn:** <!-- LINKEDIN: replace this line's text with [linkedin.com/in/your-profile](LINKEDIN_URL) --> to be added
+- **LinkedIn:** [linkedin.com/in/vishwanathan03](https://www.linkedin.com/in/vishwanathan03/)
 - **GitHub:** [github.com/vishwanathan-G](https://github.com/vishwanathan-G)
 
 <p align="center"><sub>Open to entry-level roles in software development, backend and Python development, and machine learning.</sub></p>
